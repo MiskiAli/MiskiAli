@@ -1,6 +1,10 @@
 ### Hey there 👋
 My name is Miski Ali and welcome to my Github page. I have many projects on here that I used to help me learn out a number of programing languages. 
-The main project on here that I hope you get the chance to check out is my solo project. So far I have gotten the chance to work with HTML, CSS, Javascript, jQuery, SQL, Reat, Redux-Sagas and most recently .NET and C#. 
+The main project on here that I hope you get the chance to check out is my solo project. So far I have gotten the chance to work with HTML, CSS,
+Javascript, jQuery, SQL, Reat, Redux-Sagas and most recently .NET and C#. 
+
+## My intrests outside of tech include:
+Hiking, biking around the lake, long boarding, fashion and makeup. I also love to occasionally paint outside around sunset with friends. 
 <!--
 **MiskiAli/MiskiAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
