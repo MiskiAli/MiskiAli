@@ -8,7 +8,17 @@ My name is Miski Ali and welcome to my Github page. I have many projects on here
 My interests outside of tech include:
 Hiking, biking around the lake, longboarding, fashion, and makeup. I also love to paint outside around sunset with friends occasionally.
 
-Skills:  REACT / JS / HTML / CSS / NODE / POSTICO / MUI / 
+## Skills:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>](.net) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>](c#) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](html)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](js)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/material-ui.svg' alt='material-ui' height='40'>](mui) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>](node.js)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'>](postgres)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](react)  
+
+REACT / JS / HTML / CSS / NODE / POSTICO / MUI / 
 
 - 🔭 I’m currently working on making improvements to my Solo Project. Feel free to have a look 
 
