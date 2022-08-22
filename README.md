@@ -1,6 +1,7 @@
+
+![Fullstack Software Engineer](https://media-exp1.licdn.com/dms/image/C5616AQHuU-0F586Bfw/profile-displaybackgroundimage-shrink_200_800/0/1656429568245?e=1666224000&v=beta&t=tZPWoltRdToLKCfA726KQS4Y4jiQePdLorDijR8A4qM)
 ### Hi there 👋, My name is Miski Ali
 #### I'm a Fullstack Software Engineer
-![Fullstack Software Engineer](https://media-exp1.licdn.com/dms/image/C5616AQHuU-0F586Bfw/profile-displaybackgroundimage-shrink_200_800/0/1656429568245?e=1666224000&v=beta&t=tZPWoltRdToLKCfA726KQS4Y4jiQePdLorDijR8A4qM)
 
 My name is Miski Ali and welcome to my Github page. I have many projects on here that I used to help me learn a number of programming languages. The main project on here that I hope you get the chance to check out is my solo project. So far I have gotten the opportunity to work with HTML, CSS, Javascript, jQuery, SQL, React, Redux-Sagas, and most recently .NET and C#.
 
