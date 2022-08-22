@@ -1,11 +1,12 @@
-### Hi there 👋
-
+### Hey there 👋
+My name is Miski Ali and welcome to my Github page. I have many projects on here that I used to help me learn out a number of programing languages. 
+The main project on here that I hope you get the chance to check out is my solo project. So far I have gotten the chance to work with HTML, CSS, Javascript, jQuery, SQL, Reat, Redux-Sagas and most recently .NET and C#. 
 <!--
 **MiskiAli/MiskiAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiskiAli&theme=radical)
