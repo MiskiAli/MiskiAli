@@ -1,4 +1,4 @@
-![Fullstack Software Engineer](https://media-exp1.licdn.com/dms/image/C5616AQHuU-0F586Bfw/profile-displaybackgroundimage-shrink_200_800/0/1656429568245?e=1666224000&v=beta&t=tZPWoltRdToLKCfA726KQS4Y4jiQePdLorDijR8A4qM)
+![Fullstack Software Engineer]<img src="https://media-exp1.licdn.com/dms/image/C5616AQHuU-0F586Bfw/profile-displaybackgroundimage-shrink_200_800/0/1656429568245?e=1666224000&v=beta&t=tZPWoltRdToLKCfA726KQS4Y4jiQePdLorDijR8A4qM"/>
 
 # Hi there 👋, 
 # My name is Miski Ali
