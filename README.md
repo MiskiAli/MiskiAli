@@ -12,7 +12,7 @@ REACT / JS / HTML / CSS / NODE / POSTICO / MUI /
 
 ## Examples of Work
 - 🔭 I’m currently working on making improvements to my Solo Project. Feel free to have a look
-<img src="(https://github.com/MiskiAli/MiskiAli/blob/main/Screen%20Shot%202022-10-20%20at%202.47.19%20PM.png)"/>
+<img src="https://github.com/MiskiAli/MiskiAli/blob/main/Screen%20Shot%202022-10-20%20at%202.47.19%20PM.png"/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MiskiAli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/miski-ali-761a891a7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](miskiali222@gmail.com)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiskiAli&theme=tokyonight)
