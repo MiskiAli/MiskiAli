@@ -1,4 +1,5 @@
 ![Fullstack Software Engineer](https://media-exp1.licdn.com/dms/image/C5616AQHuU-0F586Bfw/profile-displaybackgroundimage-shrink_200_800/0/1656429568245?e=1666224000&v=beta&t=tZPWoltRdToLKCfA726KQS4Y4jiQePdLorDijR8A4qM)
+
 # Hi there 👋, 
 # My name is Miski Ali
 ### I'm a Fullstack Software Engineer
@@ -11,7 +12,6 @@ REACT / JS / HTML / CSS / NODE / POSTICO / MUI /
 
 ## Examples of Work
 - 🔭 I’m currently working on making improvements to my Solo Project. Feel free to have a look
-<img src="https://github.com/MiskiAli/MiskiAli/blob/master/ezgif.com-gif-maker.mov " width= "256"/>
 <img src="https://github.com/MiskiAli/MiskiAli/blob/main/ezgif.com-gif-maker.mov " width= "256"/>
 
 
